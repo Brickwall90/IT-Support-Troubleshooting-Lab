@@ -1,0 +1,18 @@
+## Scenario 1: User Login / Password Recovery Issue
+
+**Issue:** User unable to access system due to forgotten password  
+
+**Steps Taken:**
+- Attempted login and confirmed authentication failure  
+-<
+- Accessed system recovery environment  
+- Launched Command Prompt with administrative privileges  
+- Navigated system directories to initiate password recovery process  
+
+**Resolution:**
+- Successfully restored system access and regained control of user account  
+
+**Skills Demonstrated:**
+- Windows system recovery
+- Command-line navigation
+- Troubleshooting login/authentication issues
