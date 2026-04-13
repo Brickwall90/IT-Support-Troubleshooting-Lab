@@ -29,6 +29,8 @@ Resolution.
 ## Network Connectivity Issue
 
 **Issue:** System unable to connect to the internet
+  <img width="2560" height="1392" alt="Screenshot 2026-04-11 195459" src="https://github.com/user-attachments/assets/b9113711-3d33-440c-a974-c6326dd8c98a" />
+
 
 **Troubleshooting Steps:**
 
@@ -42,7 +44,7 @@ Resolution.
 
 **Findings:**
 
-* Identified incorrect or missing network configuration
+*  Determined issue was related to incorrect network configuration rather than complete network failure
 
 **Resolution:**
 
