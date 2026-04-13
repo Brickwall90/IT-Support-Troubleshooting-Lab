@@ -45,7 +45,7 @@ Resolution.
 
 * Restored correct network settings by enabling adapter / renewing IP address
 * <img width="2560" height="1392" alt="Screenshot 2026-04-11 200022" src="https://github.com/user-attachments/assets/af05f9d4-e087-4914-ac4a-5992af4742da" />
-* <img width="2457" height="1291" alt="Screenshot 2026-04-05 201105" src="https://github.com/user-attachments/assets/d52f22b7-f2d0-4f6c-85dd-40e2ed15e699" />
+* 
 * Verified successful internet connection
 * <img width="2560" height="1392" alt="Screenshot 2026-04-12 210309" src="https://github.com/user-attachments/assets/6dfaa96f-7a07-4e72-a810-3db2140bca44" />
 
