@@ -63,6 +63,13 @@ Resolution.
 * IP configuration analysis
 * Use of command-line tools
 * Diagnosing connectivity vs DNS issues
+* Root cause analysis
+
+ ## Tools Used
+- Windows 10/11
+- Command Prompt
+- VMware
+- Networking tools (ipconfig, ping)
 
 
 
