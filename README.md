@@ -1,5 +1,6 @@
 This repository holds the labs that I've completed while studying for the Comptia A+ exam. 
-User Login / Password Recovery Issue
+
+## User Login / Password Recovery Issue
 
 **Issue:** User unable to access system due to forgotten password  
 
@@ -21,6 +22,40 @@ Resolution.
 - Command-line navigation
 - Troubleshooting login/authentication issues
 
+## Network Connectivity Issue
+
+**Issue:** System unable to connect to the internet
+
+**Troubleshooting Steps:**
+
+* Checked network adapter status and configuration
+*   <img width="2560" height="1392" alt="Screenshot 2026-04-11 195045" src="https://github.com/user-attachments/assets/e8cdec56-89be-41ba-8367-e729896f32eb" />
+
+* Used `ipconfig` to review IP address and network settings
+* <img width="2560" height="1392" alt="Screenshot 2026-04-11 195758" src="https://github.com/user-attachments/assets/358e1058-b26e-4221-ae30-4d3113aedf8c" />
+* Tested connectivity using `ping 8.8.8.8` to verify internet access
+* Tested DNS resolution using `ping google.com`
+* <img width="2560" height="1392" alt="Screenshot 2026-04-12 205056" src="https://github.com/user-attachments/assets/415380f9-b0aa-4760-9c48-e42efb0c4475" />
+
+**Findings:**
+
+* Identified incorrect or missing network configuration
+
+**Resolution:**
+
+* Restored correct network settings by enabling adapter / renewing IP address
+* <img width="2560" height="1392" alt="Screenshot 2026-04-11 200022" src="https://github.com/user-attachments/assets/af05f9d4-e087-4914-ac4a-5992af4742da" />
+* <img width="2457" height="1291" alt="Screenshot 2026-04-05 201105" src="https://github.com/user-attachments/assets/d52f22b7-f2d0-4f6c-85dd-40e2ed15e699" />
+* Verified successful internet connection
+* <img width="2560" height="1392" alt="Screenshot 2026-04-12 210309" src="https://github.com/user-attachments/assets/6dfaa96f-7a07-4e72-a810-3db2140bca44" />
+
+
+**Skills Demonstrated:**
+
+* Network troubleshooting
+* IP configuration analysis
+* Use of command-line tools
+* Diagnosing connectivity vs DNS issues
 
 
 
