@@ -1,8 +1,8 @@
 This repository holds the labs that I've completed while studying for the Comptia A+ exam. 
 
 ## Scenarios Covered
-- User Login / Password Recovery Issue  
-- Network Connectivity Issue  
+* User Login / Password Recovery Issue  
+* Network Connectivity Issue  
 
 ## User Login / Password Recovery Issue
 
@@ -18,13 +18,14 @@ Here are the steps that I took.
 * Navigated system directories to initiate password change process
 
 Resolution. 
-- Successfully restored system access and regained control of user account
+* Successfully restored system access and regained control of user account
 <img width="2560" height="1392" alt="Screenshot 2026-04-11 194004" src="https://github.com/user-attachments/assets/3676a453-ce0f-4df7-93b4-628cd091239c" />
 
 **Skills Demonstrated:**
-- Windows system recovery
-- Command-line navigation
-- Troubleshooting login/authentication issues
+*Windows system recovery
+* Command-line navigation
+* Troubleshooting login/authentication issues
+*  Used recovery tools to access system utilities outside normal login restrictions
 
 ## Network Connectivity Issue
 
