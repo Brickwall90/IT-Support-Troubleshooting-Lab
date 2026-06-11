@@ -50,7 +50,8 @@ However, initial testing ruled these out.
   Attempted access to:
     \\server\Sales
     Result: ❌ Access Denied
-    
+<img width="2560" height="1392" alt="image" src="https://github.com/user-attachments/assets/3779e543-14b4-4dff-bc77-2f98356fe02f" />
+
 4. Checked Active Directory Group Membership
     User groups:
     Domain Users
