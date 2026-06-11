@@ -86,7 +86,8 @@ Key Finding:
   Sales : Allowed
   IT : Denied
   General : Allowed
-  
+  <img width="2560" height="1392" alt="image" src="https://github.com/user-attachments/assets/84a0a1c1-d845-4583-b643-b81540ad1177" />
+
 Key Concepts Demonstrated:
   Active Directory security groups
   Role-Based Access Control (RBAC)
