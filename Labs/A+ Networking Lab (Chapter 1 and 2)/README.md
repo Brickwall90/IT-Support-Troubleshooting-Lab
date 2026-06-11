@@ -58,6 +58,7 @@ However, initial testing ruled these out.
     Employees
     Missing:
     Sales
+    <img width="2560" height="1392" alt="image" src="https://github.com/user-attachments/assets/f0f880c9-ad20-4aea-ae64-504c38af82ba" />
 
 Key Finding:
   User was not assigned to the required security group for Sales share access.
