@@ -1,4 +1,3 @@
-
 Helpdesk Case Study: Department Share Access Failure (Sales)
 
 Overview
@@ -81,10 +80,11 @@ Key Finding:
 
  Result: Access restored successfully
 
- Final Validation
+ Final Validation:
   Sales : Allowed
   IT : Denied
   General : Allowed
+  
 Key Concepts Demonstrated:
   Active Directory security groups
   Role-Based Access Control (RBAC)
@@ -92,7 +92,8 @@ Key Concepts Demonstrated:
   Authentication vs Authorization separation
   Helpdesk troubleshooting methodology
   User session token refresh behavior
-Lessons Learned
+  
+Lessons Learned:
   Password resets are often unrelated to access issues
   Group membership is a primary control mechanism in AD environments
   Always verify access in layers:
